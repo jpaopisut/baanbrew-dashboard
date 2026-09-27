@@ -4,3 +4,5 @@ dist
 .env.local
 .DS_Store
 PROMPTS.md.docx
+README.md.docx
+index.docx
