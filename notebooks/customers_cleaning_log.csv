@@ -1,0 +1,7 @@
+﻿ขั้นตอน,จำนวนแถวที่กระทบ,การตัดสินใจ
+ตัดช่องว่างหัว/ท้าย,0,strip ทุกคอลัมน์
+ตัด phone และ nickname,3000,Data Minimization: Dashboard เป็นเว็บสาธารณะ
+เพิ่ม home_branch (ชื่อสาขา),3000,join กับ branches
+"เพิ่ม orders, revenue, first/last_purchase",2507,สรุปจาก sales_clean.csv
+flag has_purchase = False,493,เก็บไว้: สมาชิกที่ยังไม่เคยซื้อ
+flag is_minor,113,เก็บไว้: ต้องตรวจความยินยอมผู้ปกครอง
